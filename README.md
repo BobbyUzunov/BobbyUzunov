@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Bobby 👋
 
-<!--
-**BobbyUzunov/BobbyUzunov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building my second career in software development with a clear long-term vision: to become a reliable full-stack developer working on meaningful products.
 
-Here are some ideas to get you started:
+My main focus is the JavaScript ecosystem — building modern web applications with React and strengthening my backend skills with Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At the same time, I’m deeply interested in Artificial Intelligence and how it integrates into real-world products. I also explore the Apple ecosystem and Swift, expanding my understanding of native development and performance-driven systems.
+
+## 🔍 Current Direction
+- JavaScript & modern web architecture
+- React / Next.js
+- Node.js & backend fundamentals
+- Artificial Intelligence concepts and applications
+- Swift and Apple platform development
+
+## 🧠 How I Approach Learning
+I focus on fundamentals, real projects and long-term consistency.  
+I value clean code, structured thinking and practical problem-solving.
+
+## 🌍 Goal
+To work remotely in a team where I can contribute, grow and take ownership of real features.
+
+Always building. Always improving.
