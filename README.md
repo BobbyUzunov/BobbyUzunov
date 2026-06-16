@@ -20,4 +20,13 @@ I value clean code, structured thinking and practical problem-solving.
 ## 🌍 Goal
 To work remotely in a team where I can contribute, grow and take ownership of real features.
 
-Always building. Always improving.
+📚 Currently learning:
+• JavaScript
+• React & Next.js
+• Node.js
+• SwiftUI
+
+🚀 Current Projects:
+• Learning Platform (Web)
+• Swift Quiz Academy (iOS)
+• AI-powered productivity experiments
