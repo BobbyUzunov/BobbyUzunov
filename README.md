@@ -76,4 +76,5 @@ I'm always learning, improving and building.
 
 🚀 Open to Remote Opportunities
 
-🌐 Portfolio: https://learning-lesson-v2.vercel.app
+🌐 Portfolio: https://barakovaluxurytravel.com/
+
